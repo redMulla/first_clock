@@ -1,5 +1,3 @@
-alert('is this working?');
-
 const hrDiv = document.querySelector('#hr');
 const minDiv = document.querySelector('#mn');
 const secDiv = document.querySelector('#sc');
